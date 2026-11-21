@@ -6,8 +6,8 @@ from engine import VectorSimilarityStore
 
 st.set_page_config(page_title="P5 Vector Search Engine", layout="wide")
 
-st.title("P5: Similarity Search & Recommendation Engine")
-st.caption("AI-Driven Software Engineering & Project Management (24CS3502) | IVF-Flat vs. Exact Flat | Hybrid Metadata Filtering")
+st.title("Similarity Search & Recommendation Engine")
+st.caption("IVF-Flat vs. Exact Flat | Hybrid Metadata Filtering")
 
 
 @st.cache_resource
